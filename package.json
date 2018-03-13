@@ -1,8 +1,8 @@
 {
   "name": "hyperapp-persist",
   "description": "Persist an app's state to the next session",
-  "author": "Porramate Lim (original by Jamen Marz https://git.io/jamen)",
-  "repository": "jamen/hyperapp-persist",
+  "author": "Porramate Lim (original by Jamen Marz <https://git.io/jamen>)",
+  "repository": "basicsharp/hyperapp-persist",
   "version": "3.2.0",
   "license": "MIT",
   "keywords": [
